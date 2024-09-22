@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+AnswerStrategy: recommended
+Authors: Fernando Conde-Pumpido <fernando.conde.pumpido@outlook.com>
+CodeOfConductContact: fernando.conde.pumpido@outlook.com
+Indentation: 4
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: Fernando Conde-Pumpido
+PackageName: SigLab
+PackageOwner: nandoconde
+PackageUUID: 3b323134-1a11-540e-8a90-90e73634ed7c
+_commit: v0.10.1
+_src_path: https://github.com/abelsiqueira/BestieTemplate.jl
